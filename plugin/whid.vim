@@ -1,3 +1,7 @@
+" Plugin: https://github.com/sudo-NithishKarthik/nvim_whid
+" Description: My first custom plugin
+" Maintainer: Nithish <https://github.com/sudo-NithishKarthik>
+
 if exists("g:loaded_whid") | finish | endif
 
 let s:save_cpo = &cpo
